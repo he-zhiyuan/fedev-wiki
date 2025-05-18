@@ -1,21 +1,33 @@
 ---
 layout: home
 hero:
-  name: 我的博客
-  text: 欢迎来到我的个人博客
-  tagline: 这里记录我的技术分享和生活感悟
+  name: 前端开发笔记
+  text: 从基础到进阶的学习路径
+  tagline: 系统化的前端开发知识体系与实战经验分享
   actions:
     - theme: brand
       text: 开始阅读
-      link: /articles/
+      link: /frontend/
     - theme: alt
       text: 关于我
       link: /about/
 features:
-  - title: 技术分享
-    details: 分享我在开发过程中遇到的技术问题和解决方案
-  - title: 生活随笔
-    details: 记录生活中的点点滴滴，分享我的所见所闻
-  - title: 学习笔记
-    details: 整理学习过程中的重要知识点和心得体会
+  - icon: 🧱
+    title: HTML & CSS 基础
+    details: 网页结构和样式的基础知识，包括 HTML5 语义化、CSS 布局技术、动画和响应式设计
+  - icon: 🚀
+    title: JavaScript 全栈
+    details: JavaScript 核心概念、ES6+ 新特性、异步编程和设计模式，以及 Node.js 后端开发
+  - icon: 🔧
+    title: 框架与工程化
+    details: Vue.js 组件开发、状态管理，以及前端工程化、构建工具和 CI/CD 流程
+  - icon: 📊
+    title: 算法与性能
+    details: 数据结构与算法基础、性能优化策略、加载与渲染优化、代码分割与懒加载
+  - icon: 🔒
+    title: 网络与安全
+    details: HTTP/HTTPS 协议、跨域与 CORS、前端安全防御、Token 认证与 CSP
+  - icon: 🔍
+    title: SEO 优化
+    details: 搜索引擎优化基础、关键词研究、站内站外优化、技术 SEO 与内容营销
 --- 
