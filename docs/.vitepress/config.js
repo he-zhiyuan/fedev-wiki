@@ -31,11 +31,12 @@ export default defineConfig({
                             items: [
                                 { text: '选择器', link: '/frontend/css/selectors' },
                                 { text: '盒模型', link: '/frontend/css/box-model' },
-                                { text: '定位', link: '/frontend/css/positioning' },
+                                { text: '定位', link: '/frontend/css/position' },
+                                { text: '浮动', link: '/frontend/css/float' },
                                 { text: 'Flex 布局', link: '/frontend/css/flex' },
                                 { text: 'Grid 布局', link: '/frontend/css/grid' },
                                 { text: '媒体查询', link: '/frontend/css/media-queries' },
-                                { text: '动画', link: '/frontend/css/animations' },
+                                { text: '动画', link: '/frontend/css/animation' },
                                 { text: 'SASS/SCSS 基础', link: '/frontend/css/sass' },
                                 { text: '层叠与继承', link: '/frontend/css/cascade' },
                                 { text: 'BEM 命名规范', link: '/frontend/css/bem' }
