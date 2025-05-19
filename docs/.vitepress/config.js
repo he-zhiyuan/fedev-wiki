@@ -146,14 +146,15 @@ export default defineConfig({
                         {
                             text: 'SEO',
                             items: [
-                                { text: 'SEO 专题总览', link: '/frontend/seo/' },
-                                { text: '一、SEO引言', link: '/frontend/seo/introduction' },
-                                { text: '二、关键词研究', link: '/frontend/seo/keyword-research' },
-                                { text: '三、内容结构与排版', link: '/frontend/seo/content-structure' },
-                                { text: '四、内容优化技巧', link: '/frontend/seo/on-page-seo' },
-                                { text: '五、技术优化基础', link: '/frontend/seo/technical-seo' },
-                                { text: '六、发布后操作', link: '/frontend/seo/post-publish' },
-                                { text: '七、常见错误与优化', link: '/frontend/seo/common-mistakes' }
+                                { text: 'SEO 教程概览', link: '/frontend/seo/' },
+                                { text: 'SEO 基础知识', link: '/frontend/seo/basic' },
+                                { text: '关键词研究', link: '/frontend/seo/keyword-research' },
+                                { text: '站内优化', link: '/frontend/seo/on-page-seo' },
+                                { text: '技术SEO', link: '/frontend/seo/technical-seo' },
+                                { text: '站外优化', link: '/frontend/seo/off-page-seo' },
+                                { text: '数据分析与SEO工具', link: '/frontend/seo/analytics-tools' },
+                                { text: '高级策略与SEO趋势', link: '/frontend/seo/advanced-strategies' },
+                                { text: '实战项目与案例分析', link: '/frontend/seo/case-studies' }
                             ]
                         }
                     ]

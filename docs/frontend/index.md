@@ -125,15 +125,16 @@
 
 ## SEO 优化
 
-### 博客 SEO 优化指南
-- [SEO 专题总览](/frontend/seo/)
-- [一、SEO引言](/frontend/seo/introduction)
-- [二、关键词研究](/frontend/seo/keyword-research)
-- [三、内容结构与排版优化](/frontend/seo/content-structure)
-- [四、内容优化技巧](/frontend/seo/on-page-seo)
-- [五、技术优化基础](/frontend/seo/technical-seo)
-- [六、发布后操作](/frontend/seo/post-publish)
-- [七、常见错误与优化建议](/frontend/seo/common-mistakes)
+### SEO完整教程
+- [SEO 教程概览](/frontend/seo/)
+- [SEO 基础知识](/frontend/seo/basic)
+- [关键词研究](/frontend/seo/keyword-research)
+- [站内优化](/frontend/seo/on-page-seo)
+- [技术SEO](/frontend/seo/technical-seo)
+- [站外优化](/frontend/seo/off-page-seo)
+- [数据分析与SEO工具](/frontend/seo/analytics-tools)
+- [高级策略与SEO趋势](/frontend/seo/advanced-strategies)
+- [实战项目与案例分析](/frontend/seo/case-studies)
 
 ## 软技能
 
