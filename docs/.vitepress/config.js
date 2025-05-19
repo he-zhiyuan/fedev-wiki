@@ -123,14 +123,15 @@ export default defineConfig({
                             ]
                         },
                         {
-                            text: '网络与安全',
+                            text: '网络基础与前端安全',
                             items: [
-                                { text: 'HTTP 协议与状态码', link: '/frontend/network/http' },
-                                { text: 'HTTPS 原理与加密机制', link: '/frontend/network/https' },
-                                { text: '跨域与 CORS', link: '/frontend/network/cors' },
-                                { text: '常见前端攻击与防御', link: '/frontend/network/attacks' },
-                                { text: 'Token 与身份认证机制', link: '/frontend/network/auth' },
-                                { text: '内容安全策略（CSP）', link: '/frontend/network/csp' }
+                                { text: 'HTTP与HTTPS基础', link: '/frontend/network/http-and-https' },
+                                { text: '网络底层协议基础', link: '/frontend/network/network-protocols' },
+                                { text: '跨域与资源安全', link: '/frontend/network/cross-origin-and-security' },
+                                { text: '前端攻击与防御机制', link: '/frontend/network/web-attacks-defense' },
+                                { text: '用户身份认证机制', link: '/frontend/network/authentication-mechanisms' },
+                                { text: 'CORS原理与配置详解', link: '/frontend/network/cors-detail' },
+                                { text: 'XSS跨站脚本攻击详解', link: '/frontend/network/xss-detail' }
                             ]
                         },
                         {

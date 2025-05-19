@@ -107,12 +107,13 @@
 ## 网络与安全
 
 ### 网络基础与前端安全
-- [HTTP 协议与状态码](/frontend/network/http)
-- [HTTPS 原理与加密机制](/frontend/network/https)
-- [跨域与 CORS](/frontend/network/cors)
-- [常见前端攻击与防御](/frontend/network/attacks)
-- [Token 与身份认证机制](/frontend/network/auth)
-- [内容安全策略（CSP）](/frontend/network/csp)
+- [HTTP与HTTPS基础](/frontend/network/http-and-https)
+- [网络底层协议基础](/frontend/network/network-protocols)
+- [跨域与资源安全](/frontend/network/cross-origin-and-security)
+- [前端攻击与防御机制](/frontend/network/web-attacks-defense)
+- [用户身份认证机制](/frontend/network/authentication-mechanisms)
+- [CORS原理与配置详解](/frontend/network/cors-detail)
+- [XSS跨站脚本攻击详解](/frontend/network/xss-detail)
 
 ## 浏览器
 
