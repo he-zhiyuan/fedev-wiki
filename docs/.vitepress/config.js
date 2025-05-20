@@ -5,6 +5,8 @@ export default defineConfig({
     description: "系统化的前端开发知识体系与实战经验分享",
     ignoreDeadLinks: true,
     themeConfig: {
+        logo: '/favicon.ico',
+        head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
         search: {
             provider: 'local'
         },

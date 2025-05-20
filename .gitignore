@@ -3,9 +3,8 @@ node_modules
 .pnpm-store/
 
 # Build output
-.vitepress/dist
-.vitepress/cache
-dist
+docs/.vitepress/dist
+docs/.vitepress/cache
 
 # Editor directories and files
 .vscode/*
