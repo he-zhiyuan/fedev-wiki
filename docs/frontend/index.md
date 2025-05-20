@@ -13,6 +13,7 @@
 - 网络与安全
 - 浏览器原理
 - SEO 优化
+- 软技能
 
 请使用左侧导航栏浏览具体内容。
 
@@ -138,9 +139,11 @@
 
 ## 软技能
 
-- [沟通与协作](/frontend/soft-skills/communication) - 有效沟通、团队协作和冲突处理
-- [问题解决](/frontend/soft-skills/problem-solving) - 批判性思维和问题分析方法
-- [时间管理](/frontend/soft-skills/time-management) - 工作效率和任务优先级管理
-- [职业发展](/frontend/soft-skills/career-growth) - 职业规划和持续学习
+### 前端工程师软技能系列
+- [前端工程师的软技能基石](/frontend/soft-skills/frontend-soft-skills-foundation)
+- [软技能实战指南：从入职到独当一面](/frontend/soft-skills/frontend-soft-skills-practical-guide)
+- [让你脱颖而出的职场加分项](/frontend/soft-skills/frontend-soft-skills-advanced)
+- [成为团队核心的秘密](/frontend/soft-skills/frontend-influence-leadership)
+- [写在最后：技术与软技能的平衡](/frontend/soft-skills/balancing-tech-and-soft-skills)
 
 > 注：本文档会持续更新，欢迎关注！ 

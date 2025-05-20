@@ -3,6 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: "前端开发笔记",
     description: "系统化的前端开发知识体系与实战经验分享",
+    ignoreDeadLinks: true,
+    // base: './',
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
@@ -155,6 +157,16 @@ export default defineConfig({
                                 { text: '数据分析与SEO工具', link: '/frontend/seo/analytics-tools' },
                                 { text: '高级策略与SEO趋势', link: '/frontend/seo/advanced-strategies' },
                                 { text: '实战项目与案例分析', link: '/frontend/seo/case-studies' }
+                            ]
+                        },
+                        {
+                            text: '软技能',
+                            items: [
+                                { text: '基础', link: '/frontend/soft-skills/frontend-soft-skills-foundation' },
+                                { text: '实用指南', link: '/frontend/soft-skills/frontend-soft-skills-practical-guide' },
+                                { text: '高级技能', link: '/frontend/soft-skills/frontend-soft-skills-advanced' },
+                                { text: '影响力与领导力', link: '/frontend/soft-skills/frontend-influence-leadership' },
+                                { text: '技术与软技能平衡', link: '/frontend/soft-skills/balancing-tech-and-soft-skills' }
                             ]
                         }
                     ]
