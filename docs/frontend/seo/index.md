@@ -1,12 +1,3 @@
----
-title: SEO教程概览
-description: 面向前端开发人员的全面SEO优化指南，从基础概念到高级策略
-head:
-  - - meta
-    - name: keywords
-      content: SEO教程, 前端SEO, 搜索引擎优化, SEO指南, 网站优化, 搜索排名
----
-
 # 搜索引擎优化(SEO)教程
 
 ## 教程简介
