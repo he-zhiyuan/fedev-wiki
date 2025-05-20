@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /frontend/
+      link: /content
     - theme: alt
       text: 关于我
       link: /about/
@@ -30,7 +30,7 @@ features:
   - icon: 🔍
     title: SEO 优化
     details: 搜索引擎优化基础、关键词研究、站内站外优化、技术 SEO 与内容营销
-  - icon: 💼
+  - icon: 🌐
     title: 浏览器原理
     details: 浏览器渲染机制、事件循环与任务队列、存储机制对比、重排与重绘原理
   - icon: 🤝
