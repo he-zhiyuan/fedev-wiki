@@ -297,7 +297,7 @@ export default {
 - `watch`可以访问变化前后的值，而`watchEffect`不行
 - `watch`默认是懒执行的，而`watchEffect`在创建时会立即执行一次
 
-## <script setup> 语法糖：更简洁的Composition API
+## `<script setup>` 语法糖：更简洁的Composition API
 
 Vue 3.2引入了`<script setup>`语法糖，让Composition API的使用更加简洁。
 
