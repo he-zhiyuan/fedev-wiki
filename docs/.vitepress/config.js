@@ -217,7 +217,7 @@ export default defineConfig({
         ],
         footer: {
             message: '用❤️分享前端技术 fedev.wiki',
-            copyright: 'Copyright <a href="https://heshuyue.com/" target="_blank">何书悦</a> © 2024-present'
+            copyright: 'Copyright <a href="https://heshuyue.com/" target="_blank">何书悦</a> © 2025-present'
         }
     }
 }) 
