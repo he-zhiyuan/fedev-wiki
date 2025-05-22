@@ -4,12 +4,12 @@
 
 ## 学习路径
 
-1. [加载优化](/frontend/performance/loading) - 学习资源加载和请求优化策略
-2. [渲染优化](/frontend/performance/rendering) - 掌握页面渲染和交互性能优化
-3. [缓存策略](/frontend/performance/caching) - 理解浏览器缓存机制和最佳实践
-4. [前端监控体系](/frontend/performance/monitoring) - 建立性能监控和数据分析系统
-5. [关键渲染路径优化](/frontend/performance/critical-path) - 优化首屏加载和关键资源
-6. [代码分割与懒加载](/frontend/performance/code-splitting) - 实现按需加载和路由分割
+1. [加载优化](/performance/loading) - 学习资源加载和请求优化策略
+2. [渲染优化](/performance/rendering) - 掌握页面渲染和交互性能优化
+3. [缓存策略](/performance/caching) - 理解浏览器缓存机制和最佳实践
+4. [前端监控体系](/performance/monitoring) - 建立性能监控和数据分析系统
+5. [关键渲染路径优化](/performance/critical-path) - 优化首屏加载和关键资源
+6. [代码分割与懒加载](/performance/code-splitting) - 实现按需加载和路由分割
 
 ## 为什么性能优化如此重要？
 

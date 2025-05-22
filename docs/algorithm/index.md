@@ -4,10 +4,10 @@
 
 ## 学习路径
 
-1. [基本数据结构](/frontend/algorithm/data-structures) - 了解数组、链表、栈、队列等基础数据结构
-2. [常见算法](/frontend/algorithm/algorithms) - 学习排序、搜索等经典算法及其实现
-3. [算法思维与刷题技巧](/frontend/algorithm/skills) - 培养算法思维和提高解题能力
-4. [时间与空间复杂度分析](/frontend/algorithm/complexity) - 掌握评估算法效率的方法
+1. [基本数据结构](/algorithm/data-structures) - 了解数组、链表、栈、队列等基础数据结构
+2. [常见算法](/algorithm/algorithms) - 学习排序、搜索等经典算法及其实现
+3. [算法思维与刷题技巧](/algorithm/skills) - 培养算法思维和提高解题能力
+4. [时间与空间复杂度分析](/algorithm/complexity) - 掌握评估算法效率的方法
 
 ## 为什么前端工程师需要学习算法？
 

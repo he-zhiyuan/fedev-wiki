@@ -4,13 +4,13 @@
 
 ## 学习路径
 
-1. [HTTP与HTTPS基础](/frontend/network/http-and-https) - 了解Web通信的基础协议
-2. [网络底层协议基础](/frontend/network/network-protocols) - 理解TCP/IP、DNS等网络协议
-3. [跨域与资源安全](/frontend/network/cross-origin-and-security) - 掌握同源策略和跨域解决方案
-4. [前端攻击与防御机制](/frontend/network/web-attacks-defense) - 学习XSS、CSRF等攻击及防御手段
-5. [用户身份认证机制](/frontend/network/authentication-mechanisms) - 理解Cookie、Token、OAuth等认证方式
-6. [CORS原理与配置详解](/frontend/network/cors-detail) - 深入了解跨域资源共享机制
-7. [XSS跨站脚本攻击详解](/frontend/network/xss-detail) - 掌握XSS防御的最佳实践
+1. [HTTP与HTTPS基础](/network/http-and-https) - 了解Web通信的基础协议
+2. [网络底层协议基础](/network/network-protocols) - 理解TCP/IP、DNS等网络协议
+3. [跨域与资源安全](/network/cross-origin-and-security) - 掌握同源策略和跨域解决方案
+4. [前端攻击与防御机制](/network/web-attacks-defense) - 学习XSS、CSRF等攻击及防御手段
+5. [用户身份认证机制](/network/authentication-mechanisms) - 理解Cookie、Token、OAuth等认证方式
+6. [CORS原理与配置详解](/network/cors-detail) - 深入了解跨域资源共享机制
+7. [XSS跨站脚本攻击详解](/network/xss-detail) - 掌握XSS防御的最佳实践
 
 ## 网络知识与前端开发
 

@@ -4,10 +4,10 @@
 
 ## 学习路径
 
-1. [浏览器渲染原理](/frontend/browser/rendering) - 探究从HTML到像素的完整渲染流程
-2. [事件循环与任务队列机制](/frontend/browser/event-loop) - 理解JavaScript的执行机制
-3. [存储机制对比](/frontend/browser/storage) - 掌握Cookie、LocalStorage、SessionStorage、IndexedDB等存储方式
-4. [重排与重绘机制](/frontend/browser/reflow-repaint) - 理解页面性能优化的关键点
+1. [浏览器渲染原理](/browser/rendering) - 探究从HTML到像素的完整渲染流程
+2. [事件循环与任务队列机制](/browser/event-loop) - 理解JavaScript的执行机制
+3. [存储机制对比](/browser/storage) - 掌握Cookie、LocalStorage、SessionStorage、IndexedDB等存储方式
+4. [重排与重绘机制](/browser/reflow-repaint) - 理解页面性能优化的关键点
 
 ## 为什么需要了解浏览器原理？
 

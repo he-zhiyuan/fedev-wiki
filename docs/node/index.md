@@ -4,13 +4,13 @@ Node.js 让 JavaScript 走出浏览器，成为了全栈开发的重要工具。
 
 ## 学习路径
 
-1. [环境搭建与运行机制](/frontend/node/environment) - 学习 Node.js 的安装和事件驱动模型
-2. [模块系统](/frontend/node/modules) - 深入理解 CommonJS 和 ES 模块
-3. [文件系统模块](/frontend/node/fs) - 掌握文件读写和目录操作
-4. [HTTP 模块与服务器](/frontend/node/http) - 创建 HTTP 服务器和处理请求
-5. [NPM 与包管理工具](/frontend/node/package-manager) - 学习依赖管理和发布包
-6. [Express 构建 API](/frontend/node/express) - 使用 Express 框架开发 RESTful API
-7. [中间件机制](/frontend/node/middleware) - 理解中间件的概念和应用
+1. [环境搭建与运行机制](/node/environment) - 学习 Node.js 的安装和事件驱动模型
+2. [模块系统](/node/modules) - 深入理解 CommonJS 和 ES 模块
+3. [文件系统模块](/node/fs) - 掌握文件读写和目录操作
+4. [HTTP 模块与服务器](/node/http) - 创建 HTTP 服务器和处理请求
+5. [NPM 与包管理工具](/node/package-manager) - 学习依赖管理和发布包
+6. [Express 构建 API](/node/express) - 使用 Express 框架开发 RESTful API
+7. [中间件机制](/node/middleware) - 理解中间件的概念和应用
 
 ## Node.js 在前端开发中的作用
 

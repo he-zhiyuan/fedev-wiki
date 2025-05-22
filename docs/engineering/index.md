@@ -4,12 +4,12 @@
 
 ## 学习路径
 
-1. [模块化方案与构建工具](/frontend/engineering/build-tools) - 了解Webpack、Vite等构建工具和模块化方案
-2. [开发与生产环境配置](/frontend/engineering/environment) - 掌握多环境配置和环境变量管理
-3. [代码规范与自动化校验](/frontend/engineering/code-quality) - 学习ESLint、Prettier、Husky等工具和实践
-4. [持续集成与部署](/frontend/engineering/cicd) - 理解CI/CD流程和自动化部署策略
-5. [包管理与依赖分析](/frontend/engineering/dependencies) - 掌握npm、yarn、pnpm等包管理工具使用及依赖优化
-6. [Monorepo 工程管理](/frontend/engineering/monorepo) - 学习大型前端项目的代码组织方式
+1. [模块化方案与构建工具](/engineering/build-tools) - 了解Webpack、Vite等构建工具和模块化方案
+2. [开发与生产环境配置](/engineering/environment) - 掌握多环境配置和环境变量管理
+3. [代码规范与自动化校验](/engineering/code-quality) - 学习ESLint、Prettier、Husky等工具和实践
+4. [持续集成与部署](/engineering/cicd) - 理解CI/CD流程和自动化部署策略
+5. [包管理与依赖分析](/engineering/dependencies) - 掌握npm、yarn、pnpm等包管理工具使用及依赖优化
+6. [Monorepo 工程管理](/engineering/monorepo) - 学习大型前端项目的代码组织方式
 
 ## 前端工程化的重要性
 

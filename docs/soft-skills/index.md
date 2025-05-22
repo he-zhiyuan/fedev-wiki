@@ -4,11 +4,11 @@
 
 ## 学习路径
 
-1. [前端工程师的软技能基石](/frontend/soft-skills/frontend-soft-skills-foundation) - 了解前端工程师必备的基础软技能
-2. [软技能实战指南：从入职到独当一面](/frontend/soft-skills/frontend-soft-skills-practical-guide) - 学习如何在工作中运用软技能
-3. [让你脱颖而出的职场加分项](/frontend/soft-skills/frontend-soft-skills-advanced) - 掌握提升职业竞争力的进阶软技能
-4. [成为团队核心的秘密](/frontend/soft-skills/frontend-influence-leadership) - 理解如何在团队中建立影响力
-5. [写在最后：技术与软技能的平衡](/frontend/soft-skills/balancing-tech-and-soft-skills) - 探讨如何平衡技术和软技能的发展
+1. [前端工程师的软技能基石](/soft-skills/frontend-soft-skills-foundation) - 了解前端工程师必备的基础软技能
+2. [软技能实战指南：从入职到独当一面](/soft-skills/frontend-soft-skills-practical-guide) - 学习如何在工作中运用软技能
+3. [让你脱颖而出的职场加分项](/soft-skills/frontend-soft-skills-advanced) - 掌握提升职业竞争力的进阶软技能
+4. [成为团队核心的秘密](/soft-skills/frontend-influence-leadership) - 理解如何在团队中建立影响力
+5. [写在最后：技术与软技能的平衡](/soft-skills/balancing-tech-and-soft-skills) - 探讨如何平衡技术和软技能的发展
 
 ## 软技能的重要性
 
