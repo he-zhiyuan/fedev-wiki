@@ -83,6 +83,14 @@
 - [包管理与依赖分析](/engineering/dependencies)
 - [Monorepo 工程管理](/engineering/monorepo)
 
+### 自动化部署
+- [前端自动化部署技术总览](/automated-deployment/frontend-deployment-overview)
+- [使用 GitHub Actions 实现前端项目的 CI/CD](/automated-deployment/github-actions-frontend-deployment)
+- [Netlify 与 Vercel：零配置的前端部署平台](/automated-deployment/netlify-vercel-zero-config-deployment)
+- [基于 Webhook 的自动部署实现](/automated-deployment/webhook-based-deployment)
+- [Docker 容器化部署前端应用](/automated-deployment/docker-containerized-frontend-deployment)
+- [使用 Git Hooks 构建简单的自动部署流程](/automated-deployment/git-hooks-for-deployment)
+
 ### Git
 - [基本操作与命令](/git/basic)
 - [分支管理与合并策略](/git/branch)

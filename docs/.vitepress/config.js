@@ -116,6 +116,19 @@ export default defineConfig({
                     ]
                 },
             ],
+            '/automated-deployment/': [
+                {
+                    text: '自动化部署',
+                    items: [
+                        { text: '概览', link: '/automated-deployment/' },
+                        { text: '使用 GitHub Actions 实现前端项目的 CI/CD', link: '/automated-deployment/github-actions-frontend-deployment' },
+                        { text: 'Netlify 与 Vercel：零配置的前端部署平台', link: '/automated-deployment/netlify-vercel-zero-config-deployment' },
+                        { text: '基于 Webhook 的自动部署实现', link: '/automated-deployment/webhook-based-deployment' },
+                        { text: 'Docker 容器化部署前端应用', link: '/automated-deployment/docker-containerized-frontend-deployment' },
+                        { text: '使用 Git Hooks 构建简单的自动部署流程', link: '/automated-deployment/git-hooks-for-deployment' }
+                    ]
+                },
+            ],
             '/git/': [
                 {
                     text: 'Git',
