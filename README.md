@@ -144,7 +144,7 @@ fedev-wiki/
 
 - 📋 [提交 Issue](https://github.com/he-zhiyuan/fedev-wiki/issues) - 报告问题或建议
 - 🔗 [GitHub 仓库](https://github.com/he-zhiyuan/fedev-wiki) - 查看源代码
-- 💌 联系我: he-zhiyuan@tuta.io
+- 💌 联系我: hezhiyuan@tuta.io
 
 ---
 
