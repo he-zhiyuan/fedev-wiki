@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/hezhiyuan/fedev-wiki?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/hezhiyuan/fedev-wiki?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/hezhiyuan/fedev-wiki?style=flat-square)
-![License](https://img.shields.io/github/license/hezhiyuan/fedev-wiki?style=flat-square)
-
 一份系统化的 **前端开发知识体系** 📚，从基础到进阶的完整学习路径
 
 [在线阅读](https://fedev.wiki/) · [GitHub](https://github.com/he-zhiyuan/fedev-wiki) · [提交Issue](https://github.com/he-zhiyuan/fedev-wiki/issues)
@@ -149,7 +144,7 @@ fedev-wiki/
 
 - 📋 [提交 Issue](https://github.com/he-zhiyuan/fedev-wiki/issues) - 报告问题或建议
 - 🔗 [GitHub 仓库](https://github.com/he-zhiyuan/fedev-wiki) - 查看源代码
-- 💌 联系我: hezhiyuan@tuta.io
+- 💌 联系我: he-zhiyuan@tuta.io
 
 ---
 
