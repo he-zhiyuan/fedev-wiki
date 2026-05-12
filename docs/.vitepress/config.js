@@ -226,11 +226,11 @@ export default defineConfig({
             ]
         },
         socialLinks: [
-            { icon: 'github', link: 'https://github.com/heshuyue' },
+            { icon: 'github', link: 'https://github.com/he-zhiyuan' },
         ],
         footer: {
             message: '用❤️分享前端技术 fedev.wiki',
-            copyright: 'Copyright <a href="https://heshuyue.com/" target="_blank">何书悦</a> © 2025-present'
+            copyright: 'Copyright <a href="https://hezhiyuan.me/" target="_blank">何致远</a> © 2025-present'
         }
     }
 }) 
